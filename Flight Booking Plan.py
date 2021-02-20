@@ -1,3 +1,5 @@
+#simple flight booking code
+
 from tkinter import *
 import tkinter.messagebox as tmsg
 
